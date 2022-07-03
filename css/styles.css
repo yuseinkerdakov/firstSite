@@ -18,8 +18,8 @@ h2 {
     color: #66BFBF;
 }
 .contactmsg{
-    width:40%;
-    margin:40px auto 60px;
+    width:65%;
+    margin:auto;
 }
 h3 {
         font-family: "Merriweather",serif;
@@ -39,11 +39,12 @@ h3 {
 a {
     color: #11999E;
     margin: 10px 8px;
+    font-size: 85%;
     text-decoration: none;
 }
 .copyright{
     color:#EAF6F6;
-    font-size: 0.75rem;
+    font-size: 0.70rem;
     padding: 20px 0;
 }
 a:hover {
